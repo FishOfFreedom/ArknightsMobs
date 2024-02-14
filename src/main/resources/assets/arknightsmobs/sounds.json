@@ -1,0 +1,21 @@
+{
+	"step": {
+		"sounds": ["arknightsmobs:step"],
+		"subtitle": "subtitles.arknightsmobs.step"
+	},
+	"wroughtnaut.axe_hit": {
+		"sounds": [ "minecraft:random/anvil_land" ],
+		"subtitle": "subtitles.arknightsmobs.wroughtnaut.axe_clang"
+	},
+	"music.patriot_theme": {
+	"category": "music",
+	"sounds": [
+		{
+			"name": "arknightsmobs:music/patriot",
+			"stream": true,
+			"volume": 0.5
+		}
+	],
+	"subtitle": "subtitles.arknightsmobs.patriot_theme"
+}
+}

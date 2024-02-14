@@ -1,0 +1,28 @@
+{
+  "message.hello_block.hello": "想挑战我？拿出你的武器来",
+  "message.test_item.hello": "当前模式是",
+
+  "itemGroup.ArknightsMobs": "方舟生物",
+
+  "item.arknightsmobs.halberd_of_the_infected": "感染者之戟",
+  "item.arknightsmobs.test_item": "测试物品",
+  "item.arknightsmobs.laiwanting": "熔岩",
+  "item.arknightsmobs.shield_of_the_infected": "感染者之盾",
+  "item.arknightsmobs.cross_bow_egg": "游击队弩手",
+  "item.arknightsmobs.messenger_egg": "游击队传令兵",
+  "item.arknightsmobs.sarkaz_soldier_egg": "游击队萨卡兹战士",
+  "item.arknightsmobs.shield_guard_egg": "游击队盾卫",
+  "item.arknightsmobs.soldier_egg": "游击队战士",
+  "item.arknightsmobs.patriot_egg": "爱国者",
+
+  "entity.arknightsmobs.gan_ran_zhe_zhi_ji": "感染者之戟",
+  "entity.arknightsmobs.guerrillas_soldier": "游击队战士",
+  "entity.arknightsmobs.guerrillas_cross_bow": "游击队弩手",
+  "entity.arknightsmobs.guerrillas_sarkaz_soldier": "游击队萨卡兹战士",
+  "entity.arknightsmobs.guerrillas_shield_guard": "游击队盾卫",
+  "entity.arknightsmobs.guerrillas_messenger": "游击队传令兵",
+  "entity.arknightsmobs.patriot": "爱国者",
+  "entity.arknightsmobs.surtr": "莱万汀",
+  "entity.arknightsmobs.flame": "火焰",
+  "entity.arknightsmobs.terrifying_fog": "恐惧"
+}

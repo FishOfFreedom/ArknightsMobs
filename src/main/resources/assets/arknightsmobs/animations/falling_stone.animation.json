@@ -1,0 +1,31 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"i": {
+			"loop": true,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"vector": ["math.sin(query.anim_time*100)*2", 0, "math.sin(query.anim_time*100)*2"]
+					}
+				},
+				"bone2": {
+					"rotation": {
+						"vector": [0, "0 + query.anim_time * 100", -32.5]
+					}
+				},
+				"bone3": {
+					"rotation": {
+						"vector": [47.5, "0 + query.anim_time * 150", 0]
+					}
+				},
+				"bone4": {
+					"rotation": {
+						"vector": [-50, "0+ query.anim_time * 80", 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

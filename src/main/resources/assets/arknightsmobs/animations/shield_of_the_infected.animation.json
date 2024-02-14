@@ -1,0 +1,29 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"right_hand": {
+			"loop": true,
+			"bones": {
+				"shield": {
+					"rotation": {
+						"vector": [63.96655, -50.33155, -57.60231]
+					}
+				}
+			}
+		},
+		"pose_1": {
+			"loop": true
+		},
+		"left_hand2": {
+			"loop": true,
+			"bones": {
+				"shield": {
+					"rotation": {
+						"vector": [0, 90, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}
